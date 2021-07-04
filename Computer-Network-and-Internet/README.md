@@ -15,12 +15,12 @@
 <tr><td>7</td><td>局域网布线与扩展</td><td><a href="./slides/L07_LANWiringExtend.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1Q7411v79s?p=1">B站</a></td><td><a href="https://v.youku.com/v_show/id_XNTEyNzE1MTQ5Mg==.html">优酷</a></td></tr>
 <tr><td>8</td><td>远距离数字连接</td><td><a href="./slides/L08_LongDistConnTech.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1qy4y1W7gm">B站</a></td><td>优酷</td></tr>
 <tr><td>9</td><td>广域网和协议分层</td><td><a href="./slides/L09_WANRoutingPrtcLayer.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1sQ4y1R7wV">B站</a></td><td>优酷</td></tr>
-<tr><td>10</td><td>互联网协议</td><td><a href="./slides/L10_IPAddrDatagram.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1v64y1d7LA">B站</a></td><td><优酷</td></tr>
+<tr><td>10</td><td>互联网协议</td><td><a href="./slides/L10_IPAddrDatagram.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1v64y1d7LA">B站</a></td><td>优酷</td></tr>
 <tr><td>11</td><td>IP支撑协议和IPv6</td><td><a href="./slides/L11_IPSupProtocalV6.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1M44y1r7Wf">B站</a></td><td>优酷</td></tr>
 <tr><td>12</td><td>传输控制协议</td><td><a href="./slides/L12_TCPUDP.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1z54y1V79B">B站</a></td><td>优酷</td></tr>
 <tr><td>13</td><td>因特网路由</td><td><a href="./slides/L13_InternetRouting.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1Bh411Y7iV">B站</a></td><td>优酷</td></tr>
 <tr><td>14</td><td>客户服务器模式和套接字API</td><td><a href="./slides/L14_CSSocket.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV195411T72U">B站</a></td><td>优酷</td></tr>
-<tr><td>15</td><td>域名系统</td><td><a href="./slides/L15_DNS.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1oT4y1u7qq">B站</a></td><td><a href="https://www.bilibili.com/video/BV1g5411g73V">优酷</a></td></tr>
+<tr><td>15</td><td>域名系统</td><td><a href="./slides/L15_DNS.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1g5411g73V">B站</a></td><td>优酷</td></tr>
 <tr><td>16</td><td>电子邮件</td><td><a href="./slides/L16_Email.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1cy4y1376s">B站</a></td><td>优酷</td></tr>
 <tr><td>17</td><td>文件系统</td><td><a href="./slides/L17_File.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1j64y1k7mh">B站</a></td><td>优酷</td></tr>
 <tr><td>18</td><td>万维网和高级专题</td><td><a href="./slides/L18_WWWAdvanced.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1UK4y1G7QX">B站</a></td><td>优酷</td></tr>
