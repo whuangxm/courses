@@ -19,7 +19,7 @@
 <a href="https://www.bilibili.com/video/BV1gb4y187Qq/">B站</a></td></tr>
 <tr><td>8</td><td>字符输入输出和输入验证</td><td><a href="./slides/CPD08_CharIOInputValid.pdf">下载</a></td><td>暂缺</td></tr>
 <tr><td>9</td><td>函数</td><td><a href="./slides/CPD09_Functions.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV17g411K7QK/">B站</a></td></tr>
-<tr><td>10</td><td>数组和指针</td><td><a href="./slides/CPD10_ArraysPointers.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV12W4y1j7M7/">上</a> <a href="https://www.bilibili.com/video/BV1MP4y1z74R/">中</a> 下</td></tr>
+<tr><td>10</td><td>数组和指针</td><td><a href="./slides/CPD10_ArraysPointers.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV12W4y1j7M7/">上</a> <a href="https://www.bilibili.com/video/BV1MP4y1z74R/">中</a> <a href="https://www.bilibili.com/video/BV17R4y1h7MS/">下</a></td></tr>
 <tr><td>11</td><td>字符串、字符串函数和排序</td><td><a href="./slides/CPD11_CharStrFunc.pdf">下载</a></td><td>
 <a href="https://www.bilibili.com/video/BV16J411R7cD">B站</a></td></tr>
 <tr><td>12</td><td>存储类、链接和内存管理</td><td><a href="./slides/CPD12_StorClsLinkMemMan.pdf">下载</a></td><td>暂缺</td></tr>
@@ -29,6 +29,7 @@
 <tr><td>16</td><td>C预处理器和C库</td><td><a href="./slides/CPD16_CPreprocessorCLibrary.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1BW4y1L7Tb/">B站</a></td></tr>
 <tr><td>17</td><td>高级数据表示</td><td><a href="./slides/CPD17_AdvaDataRepr.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1wW4y1M7dt/">B站</a></td></tr>
 </tbody></table>
+
 
 # 附加内容
 
