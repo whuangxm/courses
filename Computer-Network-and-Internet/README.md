@@ -8,7 +8,7 @@
 <tr><td>1</td><td>传输媒介</td><td><a href="./slides/L01_TransMedia.pdf">下载</a></td><td>
 <a href="https://www.bilibili.com/video/BV1bE411n7Fp">B站</a></td></tr>
 <tr><td>2</td><td>局域异步通信</td><td><a href="./slides/L02_LocalAsynComm.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1CE411n7pL">B站</a></td></tr>
-<tr><td>3</td><td>远程通信</td><td><a href="./slides/L03_LongDistComm">下载</a></td><td><a href="https://www.bilibili.com/video/BV1CE411n73v">B站</a></td></tr>
+<tr><td>3</td><td>远程通信</td><td><a href="./slides/L03_LongDistComm.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1CE411n73v">B站</a></td></tr>
 <tr><td>4</td><td>差错控制编码</td><td><a href="./slides/L04_ChannelCoding.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1rE41177cu">B站</a></td></tr>
 <tr><td>5</td><td>分组，帧和编址</td><td><a href="./slides/L05_PackAddress.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1PZ4y1A7N2">B站</a></td></tr>
 <tr><td>6</td><td>网络拓扑，机制和无线技术</td><td><a href="./slides/L06_LANTopology.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1qE41177nv">B站</a></td></tr>
