@@ -10,21 +10,23 @@
 <tr><td>2</td><td>局域异步通信</td><td><a href="./slides/L02_LocalAsynComm.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1CE411n7pL">B站</a></td></tr>
 <tr><td>3</td><td>远程通信</td><td><a href="./slides/L03_LongDistComm.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1CE411n73v">B站</a></td></tr>
 <tr><td>4</td><td>差错控制编码</td><td><a href="./slides/L04_ChannelCoding.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1rE41177cu">B站</a></td></tr>
-<tr><td>5</td><td>分组，帧和编址</td><td><a href="./slides/L05_PackAddress.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1PZ4y1A7N2">B站</a></td></tr>
-<tr><td>6</td><td>网络拓扑，机制和无线技术</td><td><a href="./slides/L06_LANTopology.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1qE41177nv">B站</a></td></tr>
-<tr><td>7</td><td>局域网布线与扩展</td><td><a href="./slides/L07_LANWiringExtend.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1Q7411v79s?p=1">B站</a></td></tr>
-<tr><td>8</td><td>远距离数字连接</td><td><a href="./slides/L08_LongDistConnTech.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1qy4y1W7gm">B站</a></td></tr>
-<tr><td>9</td><td>广域网和协议分层</td><td><a href="./slides/L09_WANRoutingPrtcLayer.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1sQ4y1R7wV">B站</a></td></tr>
-<tr><td>10</td><td>互联网协议</td><td><a href="./slides/L10_IPAddrDatagram.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1v64y1d7LA">B站</a></td></tr>
-<tr><td>11</td><td>IP支撑协议和IPv6</td><td><a href="./slides/L11_IPSupProtocalV6.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1M44y1r7Wf">B站</a></td></tr>
-<tr><td>12</td><td>传输控制协议</td><td><a href="./slides/L12_TCPUDP.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1z54y1V79B">B站</a></td></tr>
-<tr><td>13</td><td>因特网路由</td><td><a href="./slides/L13_InternetRouting.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1Bh411Y7iV">B站</a></td></tr>
-<tr><td>14</td><td>客户服务器模式和套接字API</td><td><a href="./slides/L14_CSSocket.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV195411T72U">B站</a></td></tr>
-<tr><td>15</td><td>域名系统</td><td><a href="./slides/L15_DNS.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1g5411g73V">B站</a></td></tr>
-<tr><td>16</td><td>电子邮件</td><td><a href="./slides/L16_Email.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1cy4y1376s">B站</a></td></tr>
-<tr><td>17</td><td>文件系统</td><td><a href="./slides/L17_File.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1j64y1k7mh">B站</a></td></tr>
-<tr><td>18</td><td>万维网和高级专题</td><td><a href="./slides/L18_WWWAdvanced.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1UK4y1G7QX">B站</a></td></tr>
-<tr><td>19</td><td>期末复习</td><td><a href="./slides/L19_FinalReview.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1gK4y1X7pu">B站</a></td></tr>
+<tr><td>5</td><td>分组，帧和编址</td><td><a href="./slides/L05_Ethernet.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1PZ4y1A7N2">B站</a></td></tr>
+<tr><td>6</td><td>网络拓扑，机制和无线技术</td><td><a href="./slides/L05_Ethernet.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1qE41177nv">B站</a></td></tr>
+<tr><td>7</td><td>局域网布线与扩展</td><td><a href="./slides/L06_LANExtendWLAN.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1Q7411v79s?p=1">B站</a></td></tr>
+<tr><td>8</td><td>远距离数字连接</td><td><a href="./slides/L07_LongDistConnTech.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1qy4y1W7gm">B站</a></td></tr>
+<tr><td>9</td><td>广域网和协议分层</td><td>-</td><td><a href="https://www.bilibili.com/video/BV1sQ4y1R7wV">B站</a></td></tr>
+<tr><td>10</td><td>互联网协议</td><td><a href="./slides/L08_IPDatagram.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1v64y1d7LA">B站</a></td></tr>
+<tr><td>11</td><td>IP支撑协议和IPv6</td><td><a href="./slides/L09_IPSupProtocalV6.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1M44y1r7Wf">B站</a></td></tr>
+<tr><td>12</td><td>传输控制协议</td><td><a href="./slides/L10_TCPUDP.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1z54y1V79B">B站</a></td></tr>
+<tr><td>13</td><td>因特网路由</td><td><a href="./slides/L11_InternetRouting.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1Bh411Y7iV">B站</a></td></tr>
+<tr><td>14</td><td>客户服务器模式和套接字API</td><td><a href="./slides/L12_CSSocket.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV195411T72U">B站</a></td></tr>
+<tr><td>15</td><td>域名系统</td><td><a href="./slides/L13_DNS.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1g5411g73V">B站</a></td></tr>
+<tr><td>16</td><td>电子邮件</td><td><a href="./slides/L14_Email.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1cy4y1376s">B站</a></td></tr>
+<tr><td>17</td><td>文件系统</td><td><a href="./slides/L15_File.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1j64y1k7mh">B站</a></td></tr>
+<tr><td>18</td><td>万维网</td><td><a href="./slides/L16_WWW.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1UK4y1G7QX">B站</a></td></tr>
+<tr><td>19</td><td>网络安全</td><td><a href="./slides/L17_Security.pdf">下载</a></td><td>-</td></tr>
+<tr><td>20</td><td>高级专题</td><td><a href="./slides/L18_Advanced.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1UK4y1G7QX">B站</a></td></tr>
+<tr><td>21</td><td>期末复习</td><td><a href="./slides/L19_FinalReview.pdf">下载</a></td><td><a href="https://www.bilibili.com/video/BV1gK4y1X7pu">B站</a></td></tr>
 </tbody></table>
 
 
