@@ -2,9 +2,11 @@
 
 本资料库包含厦门大学信息学院软件工程系黄炜副教授的教学资料。主要包括以下课程：
 
-1. [计算机网络与互联网](Computer-Network-and-Internet)
-2. [C程序设计](C-Programming-Design)
-3. [工程数学](Advanced-Engineering-Mathematics)
+1. [计算机网络](Computer-Network-and-Internet)
+2. [数据结构](Data-Structure-and-Algorithm)
+3. [软件体系结构](Software-Architecture)
+4. [C程序设计](C-Programming-Design) (已停设)
+5. [工程数学](Advanced-Engineering-Mathematics) (已停设)
  
 相应的授课视频主要发布于 [Bilibili视频网站](https://space.bilibili.com/8081870/channel/index) ，欢迎收看收听。
 

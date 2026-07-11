@@ -3,8 +3,10 @@
 本資料庫包含廈門大學信息學院軟件工程系黃煒副教授的教學資料。主要包括以下課程：
 
 1. [電腦網路與互聯網](Computer-Network-and-Internet)
-2. [C程式設計](C-Programming-Design)
-3. [工程數學](Advanced-Engineering-Mathematics)
+2. [資料結構與演算法](Data-Structure-and-Algorithm)
+3. [軟體體系結構](Software-Architecture)
+4. [C程式設計](C-Programming-Design) (已停設)
+5. [工程數學](Advanced-Engineering-Mathematics) (已停設)
  
 相應的授課視頻主要發佈於 [Bilibili視頻網站](https://space.bilibili.com/8081870/channel/index) ，歡迎收看收聽。
 

@@ -1,9 +1,11 @@
 # Readme
 This repository contains course materials of Associate Professor Wei HUANG in School of Informatics, Xiamen University. It mainly includes the following courses:
 
-1. [Computer Network and Internet](Computer-Network-and-Internet)
-2. [C Programming Design](C-Programming-Design)
-3. [Advanced Engineering Mathematics](Advanced-Engineering-Mathematics)
+1. [Computer Networks](Computer-Network-and-Internet)
+2. [Data Structures and Algorithms](Data-Structure-and-Algorithm)
+3. [Software Architecture](Software-Architecture)
+4. [C Programming Design](C-Programming-Design) (Discontinued)
+5. [Advanced Engineering Mathematics](Advanced-Engineering-Mathematics) (Discontinued)
  
 The corresponding teaching videos are mainly published on [Bilibili video website](https://space.bilibili.com/8081870/channel/index) . You are welcome to watch and listen.
 
